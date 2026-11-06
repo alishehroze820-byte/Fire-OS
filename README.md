@@ -5,8 +5,8 @@ A custom Android ROM based on LineageOS 18.1.
 ## Device
 - Device: Oppo A37f
 - Chipset: Qualcomm Snapdragon 410
-- Android Version: 11
-- Base ROM: LineageOS 18.1
+- Android Version: 12
+- Base ROM: LineageOS 19.1
 
 ## Features
 - Pixel-inspired UI
